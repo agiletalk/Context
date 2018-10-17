@@ -4,4 +4,4 @@
 
 ### Support or Contact
 
-Please send feedback to [@agiletalk](https://twitter.com/agiletalk.
+Please send feedback to [@agiletalk](https://twitter.com/agiletalk)
